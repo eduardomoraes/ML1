@@ -1,0 +1,6 @@
+# Dependencies for generating/publishing Python binaries.
+
+import os
+import requests
+import re
+from bs4 import BeautifulSoup
